@@ -1,4 +1,4 @@
-# Expert-Funicular
+![alt text](https://www.pluralsight.com/authors/pluralsight-live "Title") # Expert-Funicular
 
 ## A sample project to learn github and git
 
@@ -30,4 +30,4 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
 
-![alt text](/path/to/img.jpg "Title")
+
